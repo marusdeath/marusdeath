@@ -17,7 +17,7 @@
   <a href="https://discordapp.com/users/306132462218772481">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
-<a href="mailto:maru@marusdeath.com">
-  <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
-</a>
+  <a href="mailto:maru@marusdeath.com">
+    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+  </a>
 </p>
