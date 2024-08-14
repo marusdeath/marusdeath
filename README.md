@@ -1,6 +1,6 @@
 <h1 align="center">hi im maru</h1>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1154005453869686884/1238223141050908672/Comp_1_1.gif?ex=66b1dbe9&is=66b08a69&hm=fde5d46c6c666cbd0e924979778f2d771a2eb101d48f1394ac60940da8bf865f&"/>
+  <img src="https://i.imgur.com/mj8VldV.gif"/>
 </div>
 
 <h2 align="center">languages</h2>
